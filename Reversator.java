@@ -1,3 +1,7 @@
+/*
+Переворот строки
+*/
+
 package Study.Reversator;
 
 public class Reversator {

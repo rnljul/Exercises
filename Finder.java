@@ -32,7 +32,7 @@ public class Finder {
 
     public static void main(String[] args) {
 
-        int[] myArr = {0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
+        int[] myArr = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14};
 
         for (int i = 0; i < myArr.length; i++) {
             System.out.println(findIdx(myArr, myArr[i]));
